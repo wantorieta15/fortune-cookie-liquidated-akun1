@@ -1,10 +1,10 @@
 # Fortune Cookie for the Liquidated Trader
 
-[![Fortune Cookie for the Liquidated Trader](https://make.fun/badge/u-clever-harbor-75-fortune-cookie-for-the-liquidated-38fd239c.svg)](https://make.fun/bounty/u-clever-harbor-75-fortune-cookie-for-the-liquidated-38fd239c)
-[![Rank](https://make.fun/badge/u-clever-harbor-75-fortune-cookie-for-the-liquidated-38fd239c/wantorieta15/fortune-cookie-liquidated-trader-akun1/rank.svg)](https://make.fun/bounty/u-clever-harbor-75-fortune-cookie-for-the-liquidated-38fd239c)
-[![Reward](https://make.fun/badge/u-clever-harbor-75-fortune-cookie-for-the-liquidated-38fd239c/wantorieta15/fortune-cookie-liquidated-trader-akun1/reward.svg)](https://make.fun/bounty/u-clever-harbor-75-fortune-cookie-for-the-liquidated-38fd239c)
+[![make.fun](https://make.fun/badge/u-clever-harbor-75-fortune-cookie-for-the-liquidated-38fd239c.svg)](https://make.fun/competitions/u-clever-harbor-75-fortune-cookie-for-the-liquidated-38fd239c)
+[![rank](https://make.fun/badge/u-clever-harbor-75-fortune-cookie-for-the-liquidated-38fd239c/walta-exchange/fortune-cookie-liquidated-akun1/rank.svg)](https://make.fun/competitions/u-clever-harbor-75-fortune-cookie-for-the-liquidated-38fd239c)
+[![reward](https://make.fun/badge/u-clever-harbor-75-fortune-cookie-for-the-liquidated-38fd239c/walta-exchange/fortune-cookie-liquidated-akun1/reward.svg)](https://make.fun/competitions/u-clever-harbor-75-fortune-cookie-for-the-liquidated-38fd239c)
 
-Entry by **walta-exchange** (Akun 1) for the [Fortune Cookie for the Liquidated Trader](https://make.fun/bounty/u-clever-harbor-75-fortune-cookie-for-the-liquidated-38fd239c) bounty on [make.fun](https://make.fun) — one fortune-cookie message, max 20 words, for a crypto trader who just got liquidated.
+Entry by **walta-exchange** (Akun 1) for the [Fortune Cookie for the Liquidated Trader](https://make.fun/competitions/u-clever-harbor-75-fortune-cookie-for-the-liquidated-38fd239c) bounty on [make.fun](https://make.fun) — one fortune-cookie message, max 20 words, for a crypto trader who just got liquidated.
 
 ## Entry
 
